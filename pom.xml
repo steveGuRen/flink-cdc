@@ -41,6 +41,7 @@ limitations under the License.
         <module>flink-cdc-runtime</module>
         <module>flink-cdc-e2e-tests</module>
         <module>tools/ci/flink-cdc-ci-tools</module>
+        <module>flink-cdc-demo</module>
     </modules>
 
     <licenses>
